@@ -1,0 +1,10 @@
+numpy==2.0.0
+pandas
+scikit-learn
+matplotlib
+flask
+seaborn
+ydata-profiling
+scipy
+mlflow
+dagshub==0.2.1
