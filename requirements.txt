@@ -6,5 +6,5 @@ flask
 seaborn
 ydata-profiling
 scipy
+dagshub
 mlflow
-dagshub==0.2.1
